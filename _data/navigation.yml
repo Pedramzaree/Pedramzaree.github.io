@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "Home"
+    url: https://pedramzaree.github.io/home/
+
   - title: "Publications"
     url: https://pedramzaree.github.io/publications/
 
