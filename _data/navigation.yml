@@ -4,14 +4,14 @@ main:
   - title: "Home"
     url: https://pedramzaree.github.io
 
-  - title: "Publications"
-    url: https://pedramzaree.github.io/publications/
+  # - title: "Publications"
+  #   url: https://pedramzaree.github.io/publications/
 
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-    url: https://pedramzaree.github.io/teaching/    
+  # - title: "Teaching"
+  #   url: https://pedramzaree.github.io/teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -19,8 +19,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: https://pedramzaree.github.io/cv/
+  # - title: "CV"
+  #   url: https://pedramzaree.github.io/cv/
     
   # - title: "Guide"
   #   url: /markdown/
