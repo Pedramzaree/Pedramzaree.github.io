@@ -13,7 +13,7 @@ Greetings! I am a passionate Ph.D. student in Computer Science at the University
 
 Education
 ======
-UCR : Ph.D. in Computer Science at the University of California, Riverside (2022-now)
+![University Icon](https://hub.ucr.edu/sites/default/files/styles/form_preview/public/ucr%20lOGO.jpeg) Ph.D. in Computer Science at the University of California, Riverside (2022-now)
 
 B.Sc. in Electrical Engineering at Sharif University of Technology (2017-2022)
 
